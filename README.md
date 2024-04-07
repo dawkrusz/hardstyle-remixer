@@ -11,5 +11,5 @@ git clone https://github.com/dawkrusz/hardstyle-remixer.git
 ```
 Install requirements
 ```bash
-pip install -r requirements.txt
+pip install -r req.txt
 ```
